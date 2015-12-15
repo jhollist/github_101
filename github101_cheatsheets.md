@@ -46,7 +46,12 @@ See [GitHub for more](https://help.github.com/articles/caching-your-github-passw
 With these things done, your machine should be ready to roll with git!
 
 ##GitHub setup
+The following assumes you already have an existing account on GitHub, but if you don't browse to [GitHub](https://github.com/join) and sign up.  It's free!  Once your account is set-up there isn't too much more you need to do, other than start using GitHub.  One bit of terminology here... 
 
+- repository:  This is the basic unit of git (and thus GitHub).  it is
+
+
+The most common thing you will want to do is create a new repository
 
 ##Git command line
 
