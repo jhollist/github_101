@@ -179,15 +179,15 @@ In the Repository URL all we have to do is point it to our GitHub repo.  The URL
 
 To do this, go to the "Git" tab in RStudio.  It is most likely in the upper right pane:
 
-![rstudio_git1](/iale_open_science/figure/rstudio_git1.png)
+![rstudio_git1](figure/rstudio_git1.png)
 
 Next, click on the boxes under "staged."  This is equivalent to a `git add`.
 
-![rstudio_git2](/iale_open_science/figure/rstudio_git2.png)
+![rstudio_git2](figure/rstudio_git2.png)
 
 With that finished, click on the "Commit" button.  That will bring up a new window that looks like:
 
-![rstudio_git3](/iale_open_science/figure/rstudio_git3.png)
+![rstudio_git3](figure/rstudio_git3.png)
 
 In there you can 1) add your commit message and when done, 2) click on commit, and then 3) click on "Push."  
 
